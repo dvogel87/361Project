@@ -16,6 +16,78 @@
     <string name="title_activity_maps">Map</string>
     <string-array name="buildings">
         <item>Broyhill Fountain</item>
-        <item>Union</item>
+        <item>Union Greenspace</item>
+        <item>Selleck</item>
+        <item>Love Library Commons</item>
+        <item>Avery Hall</item>
+        <item>Schorr Center</item>
+        <item>Memorial Stadium</item>
+        <item>City Campus Recreation Center</item>
+        <item>University Health Center</item>
+        <item>Henzlik Hall</item>
+        <item>The Coliseum</item>
+        <item>Morrill Hall</item>
+        <item>Teacher's Hall</item>
+        <item>Mabel Lee Fields</item>
+        <item>Mueller Tower</item>
+        <item>Bessey Hall</item>
+        <item>Oldfather Hall</item>
+        <item>Hamilton Hall</item>
+        <item>Manter Hall</item>
+        <item>Richards Hall</item>
+        <item>Westbrook Music Building</item>
+        <item>Architecture Hall</item>
+        <item>Kimball Recital Hall</item>
+        <item>The Lied Center</item>
+        <item>Sheldon Art Museum</item>
+        <item>The Temple Building</item>
+        <item>The Ross Center</item>
+        <item>Knoll Residence Hall</item>
+        <item>University Suites</item>
+        <item>Eastside Suites</item>
+        <item>Neihardt</item>
+        <item>Cather Dining Hall</item>
+        <item>Harper Schramm Smith</item>
+        <item>Courtyards</item>
+        <item>Abel-Sandoz</item>
+        <item>Othmer Hall</item>
+        <item>Jorgensen Hall</item>
+        <item>The Village</item>
+        <item>Beadle Center</item>
+        <item>Scott Engineering Building</item>
+        <item>Vine Street Fields</item>
+        <item>Wick Alumni Center</item>
+        <item>Nebraska Innovation Campus</item>
+        <item>Bob Devaney Center</item>
+        <item>Nebraska Dairy Store</item>
+        <item>Nebraska East Campus Union</item>
+        <item>CY Thompson Library</item>
+        <item>Animal Science Complex</item>
+        <item>Agricultural Sciences Building</item>
+        <item>East Campus Recreation Center</item>
+        <item>Hardin Hall</item>
+        <item>Chase Hall</item>
+        <item>Entomology Hall</item>
+        <item>Home Economics Hall</item>
+        <item>Plant Science Hall</item>
+        <item>Delta Upsilon</item>
+        <item>Sigma Chi</item>
+        <item>Alpha Chi Omega</item>
+        <item>Chi Omega</item>
+        <item>Delta Tau Delta</item>
+        <item>Phi Mu</item>
+        <item>Kappa Kappa Gamma</item>
+        <item>Kappa Kappa Theta</item>
+        <item>Alpha Omnicron Pi</item>
+        <item>Alpha Phi</item>        
+        <item>Gamma Phi</item>
+        <item>Delta Delta Delta</item>
+        <item>Alpha Zi Delta</item>
+        <item>Alpha Delta Pi</item>
+        <item>Beta Theta Pi</item>
+        <item>Alpha Tau Omega</item>
+        <item>Fiji</item>
+        <item>Alpha Gamma Rho</item>
+        <item>Alpha Gamma Nu</item>        
     </string-array>
 </resources>
