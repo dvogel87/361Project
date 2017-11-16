@@ -42,7 +42,13 @@ public class RegisterActivity extends AppCompatActivity {
                             JDBCInterface.addUser(userEmail, userPw);
                             System.out.println("user added");
                             startActivity(new Intent(RegisterActivity.this,LoginActivity.class));
-                        }else{
+                        }else if(!email.contains("unl.edu"){
+                            AlertDialog.Builder builder1 = new AlertDialog.Builder(RegisterActivity.this);
+                            builder1.setMessage("ERROR: Not a .unl.edu email.")
+                                    .setNegativeButton("Retry", null)
+                                    .create()
+                                    .show();
+                    }else{
                             AlertDialog.Builder builder = new AlertDialog.Builder(RegisterActivity.this);
                             builder.setMessage("ERROR: Account with that username already exists.")
                                     .setNegativeButton("Retry", null)
